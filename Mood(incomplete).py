@@ -8,7 +8,7 @@ print("it's good to meet you," + myName)
 
 # asking how the person is doing
 print("tell me, how has your day been going on a scale of one to five")
-input()
+saved_dayinput = input()
 
 # Values
 terrible = 1
